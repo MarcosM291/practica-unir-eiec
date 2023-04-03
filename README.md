@@ -8,6 +8,13 @@ Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows
 
 ## Ejecución
 
-python3 main.py <filename> <dup>
+python3 main.py <filename> <dup> <word>
   filename: **ruta** al fichero que contiene la lista de palabras, una por línea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
+  word: palabra que se desea buscar en la lista
+
+
+Ejemplos para ejecutar:
+	python main.py words.txt yes David
+	make run word="palabra_a_buscar"
+
