@@ -1,0 +1,10 @@
+Panadera
+Frutera
+Actriz
+Carpintero
+Cajero
+Cocinero
+Bombero
+Profesor
+Deportista
+Arquitecta
